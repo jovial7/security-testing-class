@@ -16,3 +16,5 @@ This repository is the example code and lab environment for the the Security Tes
 ```
 
 Thanks for watching! Star this repo if you like the course.
+
+Thanks man!
